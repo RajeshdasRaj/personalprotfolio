@@ -12,7 +12,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-center">
-                    <img src="{{asset('images/Logo.png')}}" class="img-fluid" style="height:300px;">
+                    <img src="{{asset('images/header-logo.png')}}" class="img-fluid" style="height:300px;">
                 </div>
             </div>
         </div>
@@ -325,12 +325,12 @@
                 <div class="col-md-6 footer-box">
                     <p>Find Me On Social Media</p>
                     <div class="social-icons">
-                        <a href="#"><img src="{{asset('images/facebook-icon.png')}}"></a>
-                        <a href="#"><img src="{{asset('images/instagram-icon.png')}}"></a>
-                        <a href="#"><img src="{{asset('images/twitter-icon.png')}}"></a>
-                        <a href="#"><img src="{{asset('images/linkedin-icon.png')}}"></a>
-                        <a href="#"><img src="{{asset('images/snapchat-icon.png')}}"></a>
-                        <a href="#"><img src="{{asset('images/whatsapp-icon.png')}}"></a>
+                        <a href="https://www.facebook.com/rajeshdasraj.58/"><img src="{{asset('images/facebook-icon.png')}}"></a>
+                        <a href="https://www.instagram.com/rajesh_das_raj/"><img src="{{asset('images/instagram-icon.png')}}"></a>
+                        <a href="https://twitter.com/Rajeshdasraj585"><img src="{{asset('images/twitter-icon.png')}}"></a>
+                        <a href="https://www.linkedin.com/in/rajesh-das-71a888155/"><img src="{{asset('images/linkedin-icon.png')}}"></a>
+                        <a href="https://www.snapchat.com/rajeshdas7119"><img src="{{asset('images/snapchat-icon.png')}}"></a>
+                        <a href="https://web.whatsapp.com/01832406258"><img src="{{asset('images/whatsapp-icon.png')}}"></a>
                     </div>
                 </div>
             </div>

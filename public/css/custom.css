@@ -10,6 +10,11 @@ body
 {
  font-family: sans-serif;
 }
+.nav-logo{
+    height:50px;
+    width: 120px;
+    margin-left: 20px;
+}
 .nav-bar{
     position: sticky;
     top:0;
@@ -32,11 +37,12 @@ body
     font-weight:600;
     text-align: left;
 }
-.navbar-toggler-icon{
+.navbar-light i{
     color:rgb(251, 251, 251);
     font-size:25px !important;
     
 }
+.navbar-light .navbar-toggler
 .navbar-toggler{
     outline:none !important;
 }
