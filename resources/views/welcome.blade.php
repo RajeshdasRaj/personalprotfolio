@@ -19,7 +19,7 @@
         <img src="{{asset('images/wave1.png')}}" class="bottom-img">
     </section>
     <!----------------About--------------->
-    <section class="about" class="about-mf sect-pt4 route">
+    <section id="about-us" class="about-mf sect-pt4 route">
     <div class="container text-center">
         <h1 class="title">ABOUT</h1>
             <div class="row">
@@ -83,7 +83,7 @@
           </div>
   </section>
     <!-------------Services----------->
-    <section class="services">
+    <section id="services">
         <div class="container text-center">
             <h1 class="service"> SERVICES</h1>
               <div class="row">
@@ -170,7 +170,7 @@
     </section>
     <!----------------Services Ended-------------->
     <!----------------Achivement---------------->
-    <section class="achivement">
+    <section id="protfolio">
         <div class="container text-center">
             <h1 class="protfolio"> PROTFOLIO</h1>
             <div class="row">
@@ -245,7 +245,7 @@
             </div>
         </div>
     </section>
-    <section class="contact">
+    <section id="contact">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
